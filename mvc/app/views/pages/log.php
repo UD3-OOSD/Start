@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Login</title>
-    <link rel="stylesheet" href="/test_repo/mvc/public/css/log.css">
+    <link rel="stylesheet" href="/repo/copy_repo/mvc/public/css/log.css">
   </head>
   <body>
     <form class="box" action="login.html" method="post">

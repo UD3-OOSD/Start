@@ -27,7 +27,7 @@
         <h1>Welcome !</h1>
       </div>
       <div class="c005">
-        <a href="/test_repo/mvc/app/controller/Login.php" id="c006">Log In</a>
+        <a href="/repo/copy_repo/mvc/app/views/pages/log.php" id="c006">Log In</a>
         <a href="#" id="c006">Sign Up</a>
         <a href="https://www.facebook.com/horana.depot" id="c006">Visit us on fb</a>
       </div>

@@ -1,4 +1,4 @@
-Option -Indexes
+
 
 ErrorDocument 400 /test_repo/mvc/app/core/errors/400.html
 ErrorDocument 401 /test_repo/mvc/app/core/errors/401.html
