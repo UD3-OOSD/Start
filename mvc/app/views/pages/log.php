@@ -3,9 +3,11 @@
   <head>
     <meta charset="utf-8">
     <title>Login</title>
-    <link rel="stylesheet" href="/repo/copy_repo/mvc/public/css/log.css">
+    <?php include 'repo/copy_repo/mvc/globals.php' ?>
+    <link rel="stylesheet" href="$root/public/css/log.css">
   </head>
   <body>
+    <!--<?php echo $_SERVER['PHP_SELF']; ?>-->
     <form class="box" action="login.html" method="post">
       <h1>login</h1>
       <img class="icon" src="https://cdn4.iconfinder.com/data/icons/gray-user-management/512/login-512.png">
