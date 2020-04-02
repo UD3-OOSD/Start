@@ -2,5 +2,8 @@
     "require": {
         "illuminate/database": "^7.4",
         "illuminate/events": "^7.4"
+    },
+    "autoload": {
+      "files":["db.php"]
     }
 }
